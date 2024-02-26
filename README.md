@@ -1,2 +1,2 @@
-#Spellchecker.sh
+# Spellchecker.sh
 A simple spellchecker written in BASH
